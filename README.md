@@ -26,6 +26,8 @@ When a feedback item becomes implementation work, link the corresponding pull re
 
 ## What Not to Include
 
-Do not post secrets, API keys, private documents, sensitive user data, or full production logs. If a report depends on private material, describe the symptom, affected area, and a safe reproduction path instead.
+Do not file security-sensitive reports as public issues.
 
-Security-sensitive reports should not be filed as public issues. Use the private security reporting channel configured for the organization when available.
+Do not include secrets, API keys, private documents, sensitive user data, or full production logs. If your report depends on private material, describe the symptom, the affected area, and a safe reproduction path instead.
+
+You can also submit questions or issues by email at aigzero.ai@gmail.com.
